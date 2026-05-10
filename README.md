@@ -35,5 +35,6 @@ alice-fitbot/
 ├── weather_service.py    # Модуль общения с Яндекс.Погодой
 ├── requirements.txt      # Список зависимостей Python
 ├── README.md             # Эта инструкция
+├── LICENSE               # Лицензия MIT
 └── static/
     └── uploads/          # Папка для загруженных через веб-интерфейс файлов
