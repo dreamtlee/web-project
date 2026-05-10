@@ -35,8 +35,6 @@ alice-fitbot/
 ├── models.py             # ORM модели таблиц базы данных
 ├── weather_service.py    # Модуль общения с Яндекс.Погодой
 ├── requirements.txt      # Список зависимостей Python
-├── run.bat               # Скрипт быстрого запуска для Windows
-├── run.sh                # Скрипт быстрого запуска для Linux/Mac
 ├── README.md             # Эта инструкция
 └── static/
     └── uploads/          # Папка для загруженных через веб-интерфейс файлов
